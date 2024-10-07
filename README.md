@@ -1,2 +1,3 @@
-# react
-React Hooks for accounts, wallets, contracts, transactions, signing, ENS, and more.
+# subjektify-react
+
+React components and hooks for accounts, wallets, contracts, transactions, signing, ENS, and more.
